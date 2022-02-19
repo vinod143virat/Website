@@ -14,7 +14,7 @@ export const MenuList = [
   {
     name: "Margherita Pizza",
     image: Margherita,
-    price: 551.99,
+    price: 5551.99,
   },
   {
     name: "PedroTech Special Pizza",
